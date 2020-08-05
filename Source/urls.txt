@@ -1,0 +1,21 @@
+#youtube-dl -a urls.txt  -x --audio-format wav --audio-quality 0
+https://www.youtube.com/watch?v=vcwfw0TR4CQ
+https://www.youtube.com/watch?v=d9ZSc-5HXTg
+https://www.youtube.com/watch?v=KeAneEMS2_Q
+https://www.youtube.com/watch?v=UYnQIT9UTOI
+https://www.youtube.com/watch?v=Qkrw9CLbJIA
+https://www.youtube.com/watch?v=HG3uFNEWxzQ
+https://www.youtube.com/watch?v=Py4cIBs_NFQ
+https://www.youtube.com/watch?v=1hOiHNZIi-Q
+https://www.youtube.com/watch?v=FyUNbrgLezI
+https://www.youtube.com/watch?v=e54srnkCZD4
+https://www.youtube.com/watch?v=R-YcnPXY2yE
+https://www.youtube.com/watch?v=T3f5D9eAAPA
+https://www.youtube.com/watch?v=po_a1SmZKLs
+https://www.youtube.com/watch?v=sSIyW9MfD60
+https://www.youtube.com/watch?v=hMqYN538i8s
+https://www.youtube.com/watch?v=_Tuzqi2_LCM
+https://www.youtube.com/watch?v=1BkZ8ci8_k4
+https://www.youtube.com/watch?v=2kHJ1mHm_ew
+https://www.youtube.com/watch?v=7CFgHNNSW-g
+https://www.youtube.com/watch?v=roleJ3tu688
